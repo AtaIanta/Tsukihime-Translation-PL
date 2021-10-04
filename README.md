@@ -1,23 +1,19 @@
-# Tsukihime-Translation
-Open source translation for the Tsukihime Remake game prepared by [Clovermoon](https://twitter.com/CloverMoonTL) and [Tsukihimates](https://twitter.com/tsukihimates).
+# Tłumaczenie Tsukihime - informacje ogólne
+Otwarto źródłowe tłumaczenie na bazie repozytorium stworzonego przez [Clovermoon](https://twitter.com/CloverMoonTL) i [Tsukihimates](https://twitter.com/tsukihimates).
+Oficjalne informacje co do projektu: [Twitter: LunarVodka](https://twitter.com/LunarVodka/)
 
-Copyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.
-We do not support piracy by any means. This is only a patch of the game and you will need a copy of the game for this to work. Please buy the original game to support the author and developers. 
+Repozytorium w trakcie budowy.
 
-The repository is currently still under building.
+## Wstęp
 
-## Introduction
+Progres tłumaczenia dostępny jest w tym arkuszu: Nie ma na razie arkusza.
 
-Welcome to the repository of the Tsukihime Remake open source translation. It contains all the resources of the game (text, pictures and videos) that can and should be translated.
-Here is a general spreadsheet containing all the information about the advancement of the translation for all of those abovementioned resources:
-https://1drv.ms/x/s!AjxBEgjI1epPavQoiTYlybTLSCE?e=A0xxiJ
-
-This project will use heavily the deepLuna extraction/edition/translation/injection script that is available in the following repository:
+Projekt korzysta z narzędzia do edycji plików gry stworzonego przez kolegę Hakanaou dostępnego pod poniższym adresem:
 https://github.com/Hakanaou/deepLuna
 
-## Resources
-### Tutorials
-* Making mod from scratch by Clovermoon (still under building): https://rentry.co/9ehyf
+## Narzędzia
+### Tutoriale
+* Nie wiem po co, jak ktoś chce to mogę zrobić ale nie widzę po co.
 
 ### Tools
 * https://github.com/Hakanaou/deepLuna
@@ -28,6 +24,7 @@ https://github.com/Hakanaou/deepLuna
 * https://www.deepl.com/
 * https://translate.google.com/
 
-## Credits and thanks
-* Typemoon for creating wonderful remake http://typemoon.com/products/tsukihime/
-* Life Bottle Productions for inspiration and help https://github.com/furiousg4m3r/Tales-of-Destiny-DC
+## Podziękowania i inne pierdoły
+* Podziękowania dla Typemoon za stworzenie wspaniałego remake'u http://typemoon.com/products/tsukihime/
+* Life Bottle Productions za inspirację i pomoc w oryginalnym repozytorium https://github.com/furiousg4m3r/Tales-of-Destiny-DC
+* HollowMoon za bycie leniami dzięki czemu powstała wspaniała otwartoźródłowa inicjatywa (weźcie otwórzcie źródłowo też swoje tłumaczenie to może Wam pomogą wkleić tekst do gry)
