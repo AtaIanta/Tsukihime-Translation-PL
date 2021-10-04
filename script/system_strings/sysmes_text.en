@@ -1,30 +1,30 @@
 ja
-Sound settings
-Restore sound settings to default
-BGM volume adjustment
-BGM volume down
-BGM volume up
-Voice volume adjustment
-Voice volume down
-Voice volume up
-SFX volume adjustment
-SFX volume down
-SFX volume up
-System volume adjustment
-System volume down
-System volume up
-Movie volume adjustment
-Movie volume down
-Movie volume up
-Keep voice during text forwarding.
-Stop voice during text forwarding.
-Set the BGM volume to a constant level.
-Decrease BGM volume while voice is playing
-Set BGM source to 2ch
-Set BGM source to 5.1ch
-Voice configuration
-Restore voice settings to default
-Change the system voice
+Ustawienia dźwięku
+Przywróć domyślne ustawienia dźwięku
+Regulacja głośności muzyki
+Obniż poziom muzyki
+Zwiększ poziom muzyki
+Regulacja głośności głosu
+Obniż poziom głosu
+Zwiększ poziom głosu
+Regulacja głośności efektów dźwiękowych
+Obniż poziom efektów
+Zwiększ poziom efektów
+Regulacja głośności całego systemu
+Obniż poziom systemu
+Zwiększ poziom systemu
+Regulacja głośności filmów
+Obniż poziom filmów
+Zwiększ poziom filmów
+Odtwarzaj dźwięk podczas przewijania tekstu
+Wycisz dźwięk podczas przewijania tekstu
+Ustaw głośność muzyki na stałym poziomie
+Przycisz muzykę podczas odtwarzania dialogów
+Ustaw dźwięk na system 2 kanałowy
+Ustaw dźwięk na system 5.1 kanałowy
+Konfiguracja dialogów
+Przywróć domyślne ustawienia dialogów
+Zmień głos systemowy
 Set ？？？'s voice output
 Set ？？？'s voice volume
 ？？？'s voice decrease
@@ -159,34 +159,34 @@ Set controller's vibration ＯＮ
 Displays the operating instructions.
 Change all settings to "recommended settings"
 Change all settings to default?
-Save
-Load
+Zapisz
+Wczytaj
 Set the environment
-【DEBUG】Texture Check【DEBUG】
+【DEBUG】Debug Tekstury【DEBUG】
 Flowchart
-Return to the title.
-Close the menu
-Show flowchart
-Go back to the previous scene
-Jump to the next scene
-Rewind while pressing the button
-Fast forward while pressing the button
-Switch auto mode ON / OFF
-Quick Save
-Quick Load
-Replay last voice
-Open backlog
-Would you like to save?
-Load？
-Overwrite？
-Copy？
-Delete？
-Saving
-Loading
-Checking
-Failed to save.^Data may be corrupted.
-Copying
-Deleting
+Wróć do menu głównego
+Zamknij menu
+Pokaż drzewo fabuły
+Przejdź do poprzedniej sceny
+Przejdź do następnej sceny
+Przewiń scenę trzymając przycisk
+Przewiń w przód trzymając przycisk
+Przełącz tryb automatyczny ON/OFF
+Szybki zapis
+Szybkie wczytanie
+Odtwórz dźwięk ostatniego dialogu
+Otwórz wcześniejszy text
+Czy chciałbyś zapisać?
+Czy wczytać?
+Nadpisać?
+Skopiować?
+Czy na pewno usunąć?
+Zapisywanie
+Wczytywanie
+Sprawdzanie
+Zapisywanie nie powiodło się^Dane mogą być uszkodzone
+Kopiowanie
+Usuwanie
 Failed to save.
 Failed to load.
 Saving finished.
