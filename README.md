@@ -1,5 +1,7 @@
 # Tłumaczenie Tsukihime - informacje ogólne
+
 Otwarto źródłowe tłumaczenie na bazie repozytorium stworzonego przez [Clovermoon](https://twitter.com/CloverMoonTL) i [Tsukihimates](https://twitter.com/tsukihimates).
+
 Oficjalne informacje co do projektu: [Twitter: LunarVodka](https://twitter.com/LunarVodka/)
 
 Repozytorium w trakcie budowy.
