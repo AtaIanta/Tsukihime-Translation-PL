@@ -29,4 +29,4 @@ https://github.com/Hakanaou/deepLuna
 ## Podziękowania i inne pierdoły
 * Podziękowania dla Typemoon za stworzenie wspaniałego remake'u http://typemoon.com/products/tsukihime/
 * Life Bottle Productions za inspirację i pomoc w oryginalnym repozytorium https://github.com/furiousg4m3r/Tales-of-Destiny-DC
-* HollowMoon za bycie leniami dzięki czemu powstała wspaniała otwartoźródłowa inicjatywa (weźcie otwórzcie źródłowo też swoje tłumaczenie to może Wam pomogą wkleić tekst do gry)
+* HollowMoon za bycie leniami dzięki czemu powstała wspaniała otwartoźródłowa inicjatywa (weźcie otwórzcie źródłowo swoje tłumaczenie to może Wam pomogą wkleić tekst do gry)
