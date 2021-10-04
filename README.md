@@ -13,11 +13,11 @@ Progres tłumaczenia dostępny jest w tym arkuszu: Nie ma na razie arkusza.
 Projekt korzysta z narzędzia do edycji plików gry stworzonego przez kolegę Hakanaou dostępnego pod poniższym adresem:
 https://github.com/Hakanaou/deepLuna
 
-## Narzędzia
+## Zasoby
 ### Tutoriale
 * Nie wiem po co, jak ktoś chce to mogę zrobić ale nie widzę po co.
 
-### Tools
+### Narzędzia
 * https://github.com/Hakanaou/deepLuna
 * https://github.com/rschlaikjer/mangetsu
 * https://github.com/Hintay/PS-HuneX_Tools/
